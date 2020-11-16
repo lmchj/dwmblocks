@@ -6,6 +6,8 @@ static const Block blocks[] = {
 	{"", "~/.local/bin/statusbar/volume",	0, 10},
 	{"", "~/.local/bin/statusbar/network", 5, 4},
 	{"", "~/.local/bin/statusbar/battery", 60, 1},
+	/*{"", "~/.local/bin/statusbar/music",	0, 11},*/
+	/*{"", "~/.local/bin/statusbar/wttr",	1800, 5},*/
 	{"", "~/.local/bin/statusbar/cal", 60, 1},
 };
 
